@@ -1,6 +1,6 @@
 # coffeeonette
 
-A new Flutter project.
+Introducing "Coffeonette," the ultimate coffee app that takes you on a flavor-filled journey through the world of different coffee types. Whether you're a coffee enthusiast, a curious beginner, or simply looking to expand your coffee horizons, Coffeonette is your go-to guide to explore and savor a diverse range of coffee flavors.
 
 ## Getting Started
 
